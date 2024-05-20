@@ -1,0 +1,19 @@
+- [x] Acomodar la nota de sqli
+- [x] Hacer una nota de mysql 
+- [x] Hacer una nota de owasp top 10
+- [ ] Practicar un poco de sqli 
+- [x] Hacer maquinas
+- [ ] Checar el video de rfi y ver si hay errores en la notas
+- [ ] Añadir los tags correctos a la notas
+- [x] Acabar las notas de nosql, xss y lfi 
+- [ ] Corregir el codigo de inyeccion latex
+- [ ] Verificar todas la notas y cambiar donde dice ip por url
+- [x] arregalar la nota de webdav y shellshock
+- [ ] acomadar los script hechos en clase
+- [ ] verifcar las notas de graphql 
+- [ ] ordenar las notas
+- [ ] cambiar as por aes 
+- [ ] revisar nota de type juggling
+- [ ] revisar nota de sqli
+- [ ] en el writeup indicar la arquitectura del binario 
+- [ ] en el writeup indicar cual tecnica voy a utilizar 

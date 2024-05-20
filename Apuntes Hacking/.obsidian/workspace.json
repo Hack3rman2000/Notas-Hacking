@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "7a9ca26b96996050",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc604c277f65a60e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f36f540dc4447b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Técnicas de escalada de privilegios/Docker Breakout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aca45a38e2151d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f9102750744fb40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b50bdcfbe7d4eadf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8923a3a64c31ab9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3ba1d3603dfa3ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "df3f9956af6aa691",
+    "type": "split",
+    "children": [
+      {
+        "id": "e055a29f572a357d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5612a19340098ffc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Técnicas de escalada de privilegios/Docker Breakout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edb59d9c94696a76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Técnicas de escalada de privilegios/Docker Breakout.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b94ef0588e2a3f08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78233ea460c101f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Técnicas de escalada de privilegios/Docker Breakout.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7f36f540dc4447b2",
+  "lastOpenFiles": [
+    "Técnicas de escalada de privilegios/Abuso de servicios internos del sistema.md",
+    "Técnicas de escalada de privilegios/Abuso de permisos incorrectamente implementados.md",
+    "Técnicas de escalada de privilegios/Abuso de grupos de usuario especiales.md",
+    "Técnicas de escalada de privilegios/Abuso de binarios específicos.md",
+    "Técnicas de escalada de privilegios/Abusando de privilegios SUID.md",
+    "Técnicas de escalada de privilegios/Abusando de privilegios a nivel de Sudoers.md",
+    "Material adicional/SQLmap.md",
+    "OWASP Top 10/Ataque ShellShock.md",
+    "Técnicas de escalada de privilegios/PATH Hijacking.md",
+    "Técnicas de escalada de privilegios/Explotación del Kernel.md",
+    "Técnicas de escalada de privilegios/Detección y explotación de tareas Cron.md",
+    "Técnicas de escalada de privilegios/Detección y explotación de Capabilities.md",
+    "OWASP Top 10/Abuso de subidas de archivos.md",
+    "OWASP Top 10/Abuso de APIs.md",
+    "OWASP Top 10/Enumeración y explotación de WebDAV.md",
+    "Enumeración/CMS/Enumeración de Joomla.md",
+    "Resolución de maquinas/Writeup - IMF.md",
+    "Buffer Overflow/Funcionamiento y creación manual de Shellcodes.md",
+    "Buffer Overflow/Generación de Bytearrays y detección de Badchars.md",
+    "Buffer Overflow/Modificación del Shellcode para controlar el comando que se desea ejecutar.md",
+    "Buffer Overflow/Uso de NOPs, desplazamientos en pila e interpretación del Shellcode para lograr RCE.md",
+    "Buffer Overflow/Asignación de espacio para el Shellcode.md",
+    "Material adicional/Metasploit.md",
+    "Enumeración/Protocolos/Enumeración de SMB.md",
+    "Imágenes/Pasted image 20240426204445.png",
+    "Material adicional/Pivoting.md",
+    "Imágenes/Pasted image 20240504224602.png",
+    "Imágenes/Pasted image 20240504222936.png",
+    "Imágenes/Pasted image 20240504222835.png",
+    "Imágenes/Pasted image 20240504222626.png",
+    "Imágenes/Pasted image 20240504220014.png",
+    "Imágenes/Pasted image 20240430193103.png",
+    "Imágenes/Pasted image 20240430190101.png",
+    "Imágenes/Pasted image 20240430185924.png",
+    "Imágenes/Pasted image 20240305123627.png",
+    "Material adicional",
+    "Resolución de maquinas/Writeup - Infovore 1.md",
+    "Sin título.canvas",
+    "Resolución de maquinas",
+    "Buffer Overflow",
+    "Imágenes/Imágenes",
+    "Imágenes/hola.zip",
+    "Técnicas de escalada de privilegios",
+    "OWASP Top 10",
+    "Imágenes",
+    "Explotación",
+    "Enumeración/CMS/Sin título"
+  ]
+}
